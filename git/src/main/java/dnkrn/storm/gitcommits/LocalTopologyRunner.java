@@ -1,11 +1,10 @@
-package dnkrn.storm;
+package dnkrn.storm.gitcommits;
 
 import backtype.storm.Config;
 import backtype.storm.LocalCluster;
 import backtype.storm.generated.StormTopology;
 import backtype.storm.topology.TopologyBuilder;
 import backtype.storm.tuple.Fields;
-import backtype.storm.utils.Utils;
 
 import java.util.concurrent.TimeUnit;
 

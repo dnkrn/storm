@@ -1,4 +1,4 @@
-package dnkrn.storm;
+package dnkrn.storm.gitcommits;
 
 import backtype.storm.task.TopologyContext;
 import backtype.storm.topology.BasicOutputCollector;

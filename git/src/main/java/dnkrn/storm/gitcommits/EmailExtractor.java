@@ -1,4 +1,4 @@
-package dnkrn.storm;
+package dnkrn.storm.gitcommits;
 
 import backtype.storm.topology.BasicOutputCollector;
 import backtype.storm.topology.OutputFieldsDeclarer;
